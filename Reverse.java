@@ -1,6 +1,6 @@
 class Reverse
 {
-public static void main(string args[])
+public static void main(String args[])
 {
 int n=Integer.parseInt(args[0]);
 int rev=0;
