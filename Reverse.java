@@ -1,9 +1,8 @@
-{
-class Reversenumber
+class Reverse
 {
 public static void main(string args[])
 {
-int n=integer.parseInt(args[])
+int n=Integer.parseInt(args[]);
 int rev=0;
 int r;
 while(n>0)
